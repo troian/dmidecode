@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"os/exec"
 
-	"github.com/cloudradar-monitoring/dmidecode"
+	"github.com/troian/dmidecode"
 )
 
 func main() {
